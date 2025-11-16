@@ -361,7 +361,3 @@ The search agent performs semantic expansion by extracting key terms and searchi
 - PDF image extraction is simplified. For production, implement full image extraction using pdfjs-dist.
 - The MCP server follows Cloudflare's MCP specification for remote connections using HTTP/SSE transport.
 
-## License
-
-[Your License Here]
-
